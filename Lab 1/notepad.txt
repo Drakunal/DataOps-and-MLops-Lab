@@ -1,0 +1,15 @@
+- lab_directory/
+  - data_collection/
+    - source1/
+      - api_data_collection.py
+    - source2/
+      - file_data_collection.py
+    - source3/
+      - database_data_collection.py
+  - data_processing/
+    - data_transformation.py
+  - data_integration/
+    - data_integration.py
+  - data_storage/
+    - database_storage.py
+  - README.md
